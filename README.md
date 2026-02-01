@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Chris 👋  
+_Project Manager • Electrical Designer • JS/TS Builder_
 
-<!--
-**chr1syy/chr1syy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things when I need them — from Discord bots to small tools and experiments.  
+Currently exploring **AI agents**, automation and clean system design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack / Skills
+- **Languages:** JavaScript, TypeScript  
+- **Focus:** Discord bots, workflow automation, system design  
+- **Strengths:** Clear structures, maintainable logic, iterative improvement
+
+---
+
+## 🚀 Featured Project
+### **RaidPresence**
+A Discord raid‑management bot with a twist:  
+Instead of the usual *opt‑in* sign‑ups, players are automatically counted as attending unless they opt out.  
+This flips the entire flow and makes raid organization faster, cleaner, and more reliable.
+
+---
+
+## 🎛️ Style & Philosophy
+- Vibecoding with intention — always learning, always refining  
+- Minimalistic UI, point‑focused badges and icons  
+- Build systems that are explicit, maintainable, and fun to use
+
+---
+
+## 🧍‍♂️ About Me
+Project manager & electrical designer by day, builder by curiosity.  
+I enjoy creating tools that solve real problems and exploring how AI agents can support complex workflows.
+
+---
+
+## 🌐 Links
+More coming soon — LinkedIn is under construction.
