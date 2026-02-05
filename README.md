@@ -35,4 +35,4 @@ I enjoy creating tools that solve real problems and exploring how AI agents can 
 ---
 
 ## 🌐 Links
-More coming soon — LinkedIn is under construction.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoph-bleuel-bb133b183/)
