@@ -36,3 +36,8 @@ I enjoy creating tools that solve real problems and exploring how AI agents can 
 
 ## 🌐 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chbleuel/)
+ 
+---
+
+## Contributions
+Contributed to RunMaestro/Maestro with a focus on bringing feature parity to Windows. Work includes implementing Windows-specific equivalents for cross-platform features, addressing Windows-only bugs and edge cases, and improving Windows build, packaging, and CI workflows to ensure a consistent user experience across platforms.
