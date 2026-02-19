@@ -24,6 +24,8 @@ This flips the entire flow and makes raid organization faster, cleaner, and more
 ## 🛠️ Contributions
 ### **RunMaestro / Maestro**
 Contributed to [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) with a focus on bringing feature parity to Windows.
+Great app that allows me to run multiple parallel AI Agents autonomously.
+
 Work includes implementing Windows-specific equivalents for cross-platform features, addressing Windows-only bugs and edge cases, and improving Windows build, packaging, and CI workflows to ensure a consistent user experience across platforms.
 
 ---
