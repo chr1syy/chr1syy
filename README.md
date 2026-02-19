@@ -26,7 +26,7 @@ This flips the entire flow and makes raid organization faster, cleaner, and more
 Contributed to [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) with a focus on bringing feature parity to Windows.
 Great app that allows me to run multiple parallel AI Agents autonomously.
 
-Work includes implementing Windows-specific equivalents for cross-platform features, addressing Windows-only bugs and edge cases, and improving Windows build, packaging, and CI workflows to ensure a consistent user experience across platforms.
+Work includes implementing Windows-specific equivalents for cross-platform features, addressing Windows-only bugs and edge cases, and improving Windows build, packaging, and CI workflows to ensure a c[...]  
 
 ---
 
@@ -45,4 +45,4 @@ I enjoy creating tools that solve real problems and exploring how AI agents can 
 
 ## 🌐 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chbleuel/)
- 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chr1syy)  
